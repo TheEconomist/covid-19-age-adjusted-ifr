@@ -7,3 +7,5 @@ Link:
 https://www.economist.com/graphic-detail/2020/11/16/why-rich-countries-are-so-vulnerable-to-covid-19
 
 Data sources: Brazeau et al 2020, UN
+
+![population_age_adjusted_ifr](./population_age_adjusted_ifr.png)
